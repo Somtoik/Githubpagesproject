@@ -1,2 +1,2 @@
 # Githubpagesproject
-Lab 1 CSE110
+Somto Ikeanyi's User Page
